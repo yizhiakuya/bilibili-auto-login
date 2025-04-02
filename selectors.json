@@ -1,0 +1,15 @@
+{
+  "loginPage": {
+    "qqLoginButton": "text=\"QQ登录\"",
+    "qqAvatar": "#img_out_2488309724",
+    "qqAvatarAlt": "span[uin=\"2488309724\"].img_out_focus"
+  },
+  "spacePage": {
+    "username": ".user-name",
+    "stats": ".n-statistics .n-data",
+    "followers": "[title*=\"关注数\"]",
+    "following": "[title*=\"粉丝数\"]",
+    "likes": "[title*=\"获赞数\"]",
+    "playCount": "[title*=\"播放数\"]"
+  }
+}
